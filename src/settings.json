@@ -20,9 +20,9 @@
       "name": "AI/Tools",
       "items": [
         {
-          "name": "LuminAI",
+          "name": "ChagptAI",
           "desc": "Talk with luminai",
-          "path": "/ai/luminai?text=",
+          "path": "/ai/chatgpt?text=",
           "status": "ready",
           "params": {
             "text": "Text for luminai to respond to"
